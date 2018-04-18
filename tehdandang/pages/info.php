@@ -80,6 +80,35 @@
 				<hr> <i class="fa fa-angle-down"></i>
 				</div>
 			</div><!--skill_border-->
+			
+			<p class="lead" align="justify"><font color="black"><strong>PT. KARTINI TEH NASIONAL</strong> membutuhkan :
+            	<br><strong>RESEARCH AND DEVELOPMENT (RND) </strong>
+            	<br><br>Kualifikasi :
+            	<br>* Sarjana Ilmu Pangan
+            	<br>* IPK >= 3,00 skala 4,00
+            	<br>* Wanita, usia 20-25 tahun
+            	<br>* Mampu bekerja di bawah tekanan
+            	<br>* Mampu bekerja secara tim atau individu
+            	<br>* Teliti, ulet, tekun, kritis, dan kreatif
+            	<br><br>Segera kirim surat lamaran beserta lampirannya (semua file dijadikan 1 file format PDF) ke <strong>hr.ga@tehdandang.com</strong> dengan subjek Apply : RND paling lambat <strong>18 Maret 2018</strong>.
+            </font></p>
+            <div class="row team-bar">
+				<div class="first-one-arrow hidden-xs">
+				<hr>
+				</div>
+				<div class="first-arrow hidden-xs">
+				<hr> <i class="fa fa-angle-up"></i>
+				</div>
+				<div class="second-arrow hidden-xs">
+				<hr> <i class="fa fa-angle-down"></i>
+				</div>
+				<div class="third-arrow hidden-xs">
+				<hr> <i class="fa fa-angle-up"></i>
+				</div>
+				<div class="fourth-arrow hidden-xs">
+				<hr> <i class="fa fa-angle-down"></i>
+				</div>
+			</div><!--skill_border-->
             
         </div>
     </section><!--/#blog-->
