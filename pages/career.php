@@ -1,4 +1,4 @@
-    <section id="blog" class="container">
+	<section id="blog" class="container">
         <div class="center">
             <br><br><br>
             <h2>Lowongan Pekerjaan</h2>

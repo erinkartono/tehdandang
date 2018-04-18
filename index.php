@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Teh Dandang - Segar Alami dan Murninya</title>
+    <title>Home | Teh Dandang</title>
     
     <!-- core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/animate.min.css" rel="stylesheet">
-    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">    
     <link href="css/main.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
     <!--[if lt IE 9]>
@@ -92,8 +92,8 @@
                 <div class="col-sm-6">
                     <ul class="pull-right">
                         <li><a href="index.php?p=home">Home</a></li>
-                        <li><a href="index.php?p=about-us">About Us</a></li>
-                        <li><a href="index.php?p=contact-us">Contact Us</a></li>
+                        <li><a href="index.php?p=about-us">About</a></li>
+                        <li><a href="index.php?p=contact-us">Contact</a></li>
                     </ul>
                 </div>
             </div>
