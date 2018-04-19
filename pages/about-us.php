@@ -92,12 +92,11 @@
 
             			<div class="partners">
                 			<ul>
-                    			<li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="images/partners/alfamart2.png"></a></li>
-                    			<li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" src="images/partners/carrefour.png"></a></li>
-                    			<li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="images/partners/giant.png"></a></li>
-                    			<li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="images/partners/indogrosir.png"></a></li>
-                    			<li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="images/partners/logoHypermart.png"></a></li>
-                    			<li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="images/partners/lottemart2.png"></a></li>
+                    			<li> <img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" src="images/partners/carrefour.png"></a></li>
+                    			<li> <img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="images/partners/giant.png"></a></li>
+                    			<li> <img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="images/partners/indogrosir.png"></a></li>
+                    			<li> <img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="images/partners/logoHypermart.png"></a></li>
+                    			<li> <img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="images/partners/lottemart2.png"></a></li>
                 			</ul>
             			</div>        
         			</div><!--/.container-->
