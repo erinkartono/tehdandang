@@ -1,13 +1,12 @@
-<section id="main-slider" class="no-margin">
+<section id="main-slider" class="no-margin" data-ride="carousel">
         <div class="carousel slide">
             <ol class="carousel-indicators">
                 <li data-target="#main-slider" data-slide-to="0" class="active"></li>
                 <li data-target="#main-slider" data-slide-to="1"></li>
-                <li data-target="#main-slider" data-slide-to="2"></li>
             </ol>
             <div class="carousel-inner">
 
-                <div class="item" style="background-image: url(images/slider/bg5.png)">
+                <div class="item active" style="background-image: url(images/slider/bg5.png)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
