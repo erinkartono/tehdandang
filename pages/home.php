@@ -91,7 +91,7 @@
                     </div><!--/.col-md-4-->
                 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <center><img src="images/dandang/butet.png" width="80%"></center>
+                        <center><img src="images/dandang/text.png" width="80%"></center>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
@@ -100,10 +100,6 @@
                             <h2>AFTERTASTE</h2>
                             <h3>Manis karena dari daun teh asli.</h3>
                         </div>
-                    </div><!--/.col-md-4-->
-
-                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <center><img src="images/dandang/text.png" width="90%"></center>
                     </div><!--/.col-md-4-->
                 </div><!--/.services-->
             </div><!--/.row-->    

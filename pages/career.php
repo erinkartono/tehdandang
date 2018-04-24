@@ -3,83 +3,62 @@
             <br><br><br>
             <h2>Lowongan Pekerjaan</h2>
             <p class="lead"><i>bergabunglah bersama kami!</i></p>
-            <div class="row team-bar">
-				<div class="first-one-arrow hidden-xs">
-				<hr>
-				</div>
-				<div class="first-arrow hidden-xs">
-				<hr> <i class="fa fa-angle-up"></i>
-				</div>
-				<div class="second-arrow hidden-xs">
-				<hr> <i class="fa fa-angle-down"></i>
-				</div>
-				<div class="third-arrow hidden-xs">
-				<hr> <i class="fa fa-angle-up"></i>
-				</div>
-				<div class="fourth-arrow hidden-xs">
-				<hr> <i class="fa fa-angle-down"></i>
-				</div>
-			</div> <!--skill_border-->
-			
-			<p class="lead" align="justify"><font color="black"><strong>PT. KARTINI TEH NASIONAL</strong> membutuhkan :
-            	<br><strong>KEPALA DIVISI TEKNIK </strong>
-            	<br><br>Kualifikasi :
-            	<br>* DIII / S1 (TEKNIK MESIN / TEKNIK PERTANIAN)
-            	<br>* IPK >= 3,00 skala 4,00
-            	<br>* Laki / Wanita
-            	<br>* Mampu bekerja di bawah tekanan
-            	<br>* Mudah beradaptasi dengan teman dan lingkungan
-            	<br>* Inovatif, kreatif, inisiatif
-            	<br>* Bertanggung jawab
-            	<br>* Mempunyai jiwa kepemimpinan yang baik
-            	<br><br>Segera kirim surat lamaran beserta lampirannya (semua file dijadikan 1 file format PDF) ke <strong>hr.ga@tehdandang.com</strong> dengan subjek Apply : TEK paling lambat <strong>18 Maret 2018</strong>.
-            </font></p>
-            <div class="row team-bar">
-				<div class="first-one-arrow hidden-xs">
-				<hr>
-				</div>
-				<div class="first-arrow hidden-xs">
-				<hr> <i class="fa fa-angle-up"></i>
-				</div>
-				<div class="second-arrow hidden-xs">
-				<hr> <i class="fa fa-angle-down"></i>
-				</div>
-				<div class="third-arrow hidden-xs">
-				<hr> <i class="fa fa-angle-up"></i>
-				</div>
-				<div class="fourth-arrow hidden-xs">
-				<hr> <i class="fa fa-angle-down"></i>
-				</div>
-			</div><!--skill_border-->
-			
-			<p class="lead" align="justify"><font color="black"><strong>PT. KARTINI TEH NASIONAL</strong> membutuhkan :
-            	<br><strong>ASISTEN TIM LABORATORIUM </strong>
-            	<br><br>Kualifikasi :
-            	<br>* SMU diutamakan jurusan IPA
-            	<br>* Nilai rata-rata ijasah >= 7,5
-            	<br>* Wanita, usia 18-22 tahun
-            	<br>* Mampu bekerja di bawah tekanan
-            	<br>* Mampu bekerja secara tim atau individu
-            	<br>* Teliti, ulet, tekun, kritis, dan kreatif
-            	<br><br>Segera kirim surat lamaran beserta lampirannya (semua file dijadikan 1 file format PDF) ke <strong>hr.ga@tehdandang.com</strong> dengan subjek Apply : ATL paling lambat <strong>18 Maret 2018</strong>.
-            </font></p>
-            <div class="row team-bar">
-				<div class="first-one-arrow hidden-xs">
-				<hr>
-				</div>
-				<div class="first-arrow hidden-xs">
-				<hr> <i class="fa fa-angle-up"></i>
-				</div>
-				<div class="second-arrow hidden-xs">
-				<hr> <i class="fa fa-angle-down"></i>
-				</div>
-				<div class="third-arrow hidden-xs">
-				<hr> <i class="fa fa-angle-up"></i>
-				</div>
-				<div class="fourth-arrow hidden-xs">
-				<hr> <i class="fa fa-angle-down"></i>
-				</div>
-			</div><!--skill_border-->
+            <br><br><br>
             
+            <!-- Trigger/Open The Modal -->
+            <button id="myBtn" class="btn btn-primary btn-lg">Start Application</button>
+
+            <!-- The Modal -->
+            <div id="myModal" class="modal">
+
+                <!-- Modal content -->
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <span class="close">&times;</span>
+                        <h2>Modal Header</h2>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row contact-wrap"> 
+                            <div class="status alert alert-success" style="display: none"></div>
+                                <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemailjob.php">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="form-group">
+                                        <label>First Name *</label>
+                                        <input type="text" name="name" class="form-control" placeholder="Your First Name" required="required">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Email *</label>
+                                        <input type="email" name="email" class="form-control" placeholder="Your Email" required="required">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Phone *</label>
+                                        <input type="number" class="form-control" placeholder="Your Phone Number" required="required">
+                                    </div> 
+                                    <div class="form-group">
+                                        <label>Address *</label>
+                                        <input type="text" class="form-control" placeholder="Your address line 1" required="required">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Your address line 2">
+                                    </div>                       
+                                </div>
+                                <div class="col-sm-5">
+                                    <div class="form-group">
+                                        <label>Last Name *</label>
+                                        <input type="text" name="name" class="form-control" placeholder="Your Last Name" required="required">
+                                    </div>                        
+                                    <div class="form-group">
+                                        <button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Submit Application</button>
+                                    </div>
+                                </div>
+                                </form> 
+                        </div><!--/.row-->
+                    </div>
+                    <div class="modal-footer">
+                        <h3>PT KARTINI TEH NASIONAL</h3>
+                    </div>
+                </div>
+            </div>
         </div>
     </section><!--/#blog-->

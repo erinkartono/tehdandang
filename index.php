@@ -57,7 +57,7 @@
                         </li>
                         <li class="<?php if($_GET['p']=='our-product'){ echo 'active'; } ?>"><a href="index.php?p=our-product">OUR PRODUCT</a></li> 
                         <li class="<?php if($_GET['p']=='contact-us'){ echo 'active'; } ?>"><a href="index.php?p=contact-us">CONTACT US</a></li>
-                        <li class="<?php if($_GET['p']=='info'){ echo 'active'; } ?>"><a href="index.php?p=career">CAREER</a></li>                        
+                        <li class="<?php if($_GET['p']=='info'){ echo 'active'; } ?>"><a href="index.php?p=404">CAREER</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->
